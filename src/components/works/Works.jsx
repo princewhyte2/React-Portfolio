@@ -1,16 +1,13 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 import styled from "@emotion/styled";
 
 import { worksData } from "../../data.js";
-import nextIPProject from "../../images/nextIPProject.png";
 import smartcoop from "../../images/smartcoop.png";
 import nirsalProject from "../../images/nirsalProject.png";
 import whyteShelf from "../../images/whyteShelf.png";
-import reactProject from "../../images/nirsalProject.png";
-import loopStudios from "../../images/loopstudios.png";
+
 import qanda from "../../images/qanda.png";
 import confusion from "../../images/confusion.png";
-import converter from "../../images/converter.png";
 // import reactProject from "../../images/nirsalProject.png";
 const images = [nirsalProject, smartcoop, qanda, whyteShelf, confusion];
 

@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 
 import reactLogo from "../../images/logo.svg";
 import myLogo from "../../images/Whyte_-removebg-preview.png";
@@ -7,13 +7,9 @@ import dotnetCore from "../../images/net_Core_Logo.svg.png";
 import pyLogo from "../../images/pylogo.png";
 import jSLogo from "../../images/logo-javascript.svg";
 import androidLogo from "../../images/Android-Logo.png";
-import bSLogo from "../../images/bootstrap-logo.svg";
-import sassLogo from "../../images/sass-logo.svg";
-import htmlLogo from "../../images/html5-logo.svg";
-import nextLogo from "../../images/next-js.svg";
-import myCV from "../../assets/SIMEON_KENNETH_Resume.pdf";
 
-import { StyledLayout } from "../layout/Layout";
+import myCV from "../../assets/Princewhyte_Dabotubo.pdf";
+
 import "./header.css";
 
 const Header = () => {
