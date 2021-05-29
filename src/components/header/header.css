@@ -232,7 +232,7 @@ html {
 
   .works-section {
     padding: 0 1rem;
-    margin-top: 150px !important;
+    margin-top: 0px !important;
   }
 
   .stack-wrapper {
@@ -260,7 +260,10 @@ html {
   .stack-wrapper img {
     width: 11%;
   }
-
+  .works-section {
+    padding: 0 1rem;
+    margin-top: 450px !important;
+  }
   #react-logo {
     width: 13%;
   }

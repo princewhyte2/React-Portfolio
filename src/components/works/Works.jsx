@@ -23,6 +23,7 @@ const Works = ({ direction, content }) => {
           direction={work.direction}
           className={"work-section-wrapper"}
           index={work.index}
+          key={work.index}
         >
           <div
             className={`${
