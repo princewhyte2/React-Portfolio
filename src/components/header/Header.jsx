@@ -49,7 +49,7 @@ const Header = () => {
           <a
             href={myCV}
             className={"download-btn"}
-            download="Simeon_kenneth_resume"
+            download="Princewhyte_Dabotubo_resume"
           >
             Download CV
           </a>
