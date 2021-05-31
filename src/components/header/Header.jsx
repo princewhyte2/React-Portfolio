@@ -38,13 +38,14 @@ const Header = () => {
             <b className={"love"}> Software Developer</b> <br />
           </h3>
           <p className={"about-me"} id={"about-me"}>
-            I've always believed <em>Code</em> can change the world. Wether its
+            I've always believed <em>Code</em> can change the world. whether its
             through simplifying our day to day task or giving us an opportunity
-            to view things in a whole new way, I love working on projects that
-            make people happy as well as solve problems At any scale. In the
-            past few years I've found myself learning programming languages and
-            frameworks, understanding User Experience design, Front-end
-            ,Back-end development, Mobile and product management.
+            to view things in a whole new way. I love working on projects that
+            make people happy as well as solve problems at any scale. In the
+            past few years I've found myself learning various programming
+            languages frameworks, understanding User Experience design,
+            Front-end ,Back-end development, Mobile App development and product
+            management.
           </p>
           <a
             href={myCV}
