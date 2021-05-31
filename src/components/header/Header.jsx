@@ -23,7 +23,7 @@ const Header = () => {
             About
           </a>{" "}
           <a href={"#my-works"} className={"nav-link"}>
-            Works
+            Projects
           </a>
           <a href={"#contact-me"} className={"nav-link"}>
             Contact
