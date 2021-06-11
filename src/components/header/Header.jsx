@@ -8,7 +8,7 @@ import pyLogo from "../../images/pylogo.png";
 import jSLogo from "../../images/logo-javascript.svg";
 import androidLogo from "../../images/Android-Logo.png";
 
-import myCV from "../../assets/Princewhyte_Dabotubo.pdf";
+import myCV from "../../assets/Whyte_Prince_CV.pdf";
 
 import "./header.css";
 
